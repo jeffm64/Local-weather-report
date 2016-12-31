@@ -1,0 +1,1 @@
+This app asks for your location. If you give it access, it will tell you your locations current temperature and weather. You can switch it to be either fahrenheit or celsius.
